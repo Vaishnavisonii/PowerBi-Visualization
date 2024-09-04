@@ -7,7 +7,7 @@
 ## Problem Statement
 
 This dashboard helps the company Adventure Works to draw the sales data for different categories of bikes for 2023. 
-We can infer that the lowest selling bike was Frestyle Master, its total sales was 1800. In Freestyle Master the product category is Freestyle Master 2000 as inferred from the chart.
+  - Least selling product category was kids bikes with a total sales of 500, the subcategory Littlebalancer 2000 was the least sold bike in overall data.
 
 ### Steps followed 
 
@@ -25,11 +25,11 @@ We can infer that the lowest selling bike was Frestyle Master, its total sales w
 
 ###Conclusions made: 
 
-  - Highest selling product category ike was Mountain Bikes overall with 50,400 sales and contributing 34.1% for total sales.
+  - Highest selling product category bike was Mountain Bikes overall with 50,400 sales and contributing 34.1% for total sales.
 
   - The highest selling bike was Aerospeed 1000 which is under the product category Road Bikes.
 
-  - Least selling product category was BMX bikes and the least sold bike was Freestyle Master 2000.
+  - Least selling product category was kids bikes with a total sales of 500, the subcategory Littlebalancer 2000 was the least sold bike in overall data.
 
   - Total sales amount 84,200 was done using Credit card and 63600 by Paypal.
 
